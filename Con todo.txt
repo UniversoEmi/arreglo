@@ -1,0 +1,11 @@
+BIENVENIDO A LA PRIMER COMPETENCIA DE ARTES DIGITALES DE IA (C.A.D.IA) DE IMAGENES DE IA EN ARGENTINA,
+EL GANADOR SE LLEVARA 1,000,000M$, FAMA, Y UNA INSIGNIA DE MEJOR IMAGEN DE IA ARGENTINA,  ¿Y QUE LO HACE TAN ESPECIAL? QUE SOLO 200 PERSONAS PODRAN PARTICIPAR!!!
+Solo tienes que entrar en nuestra comunidad de discord(costo 12.000ARG) Y Sube tu imagen de IA 
+
+1°) Nodejs React Mongodb Login y CRUD (Aplicación FullStack)
+2°) MERN Stack con Context API (Subida de imagenes, TailwindCSS, Formik)
+3°) Nodejs y Stripe - Aceptar Pagos Online
+
+Primero configurar bien la API de stripe, una vez pagado el monto este nos redireccionara al login, luego del registro nos llevara a nuestro perfir de la pagina donde podran subir su imagen de IA
+
+"type": "module",
